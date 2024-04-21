@@ -8,7 +8,7 @@
 💻 Currently, I'm having fun learning and implementing machine learning algorithms.
 
 
-❓ I'm seeking Data Science / Data Analytics or UI/UX Designer roles!
+
 
 📫 You can reach me on both [Linkedin](https://www.linkedin.com/in/mehrnaz-miri-59a879208/) and [Instagram](https://www.instagram.com/mehrnaz_m77/)!
 
