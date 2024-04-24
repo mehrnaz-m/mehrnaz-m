@@ -13,7 +13,7 @@
 📫 You can reach me on both [Linkedin](https://www.linkedin.com/in/mehrnaz-miri-59a879208/) and [Instagram](https://www.instagram.com/mehrnaz_m77/)!
 
 </br>
-❇️ Fun fact: I'm a huge videogame fan. My favorite game is God of War 2018, and I am willing to fight you on this.
+❇️ Fun fact: I'm a huge videogame fan. My favorite game is God of War 2018, with Genshin Impact being a close second.
   
 
 <!---
