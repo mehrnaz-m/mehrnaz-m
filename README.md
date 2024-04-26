@@ -7,6 +7,8 @@
 
 💻 Currently, I'm having fun learning and implementing machine learning algorithms.
 
+📝 See my projects: [Portfolio](https://mehrnaz-m.github.io/Portfolio/)
+
 
 
 
