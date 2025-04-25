@@ -1,13 +1,11 @@
 # 👋 Hi, I’m Mehrnaz!
 </br>
 
-👀 I’m a 25 year old Data Science and AI MSc student at the University of Liverpool.
-
-🖌️ I have a bachelors in Architectrue, so I have a mix of both design and technical skills!
+🖌️ I have a masters in Data Science and AI and a bachelors in Architectrue, so I have a mix of both design and technical skills!
 
 💻 Currently, I'm having fun learning and implementing machine learning algorithms.
 
-📝 See my projects: [Portfolio](https://mehrnaz-m.github.io/Portfolio/)
+📝 See my projects: [Portfolio](https://mehrnazmiri.myportfolio.com/mehrnaz-miri)
 
 
 
