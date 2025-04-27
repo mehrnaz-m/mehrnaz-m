@@ -5,12 +5,12 @@
 
 💻 Currently, I'm having fun learning and implementing machine learning algorithms.
 
-📝 See my projects: [Portfolio](https://mehrnazmiri.myportfolio.com/mehrnaz-miri)
+📝 See a collection of my projects: [Portfolio](https://mehrnazmiri.myportfolio.com/mehrnaz-miri)
 
 
 
 
-📫 You can reach me on both [Linkedin](https://www.linkedin.com/in/mehrnaz-miri-59a879208/) and [Instagram](https://www.instagram.com/mehrnaz_m77/)!
+📫 You can reach me on [Linkedin](https://www.linkedin.com/in/mehrnaz-miri-59a879208/)!
 
 </br>
 ❇️ Fun fact: I'm a huge videogame fan. My favorite game is God of War 2018, with Genshin Impact being a close second.
